@@ -1,0 +1,45 @@
+{
+  "contact": {
+    "heading": "Contact",
+    "mail": {
+      "heading": "MAIL",
+      "icon": "iconoir-mail",
+      "links": ["shayan_90@live.com"]
+    },
+    "phone": {
+      "heading": "CONTACT",
+      "icon": "iconoir-phone",
+      "links": [
+        {
+          "text": "+92 346 0328288"
+        }
+      ]
+    },
+    "location": {
+      "heading": "LOCATION",
+      "icon": "iconoir-pin-alt",
+      "type": "Location",
+      "location": "Karachi, Pakistan"
+    }
+  },
+  "profiles": {
+    "heading": "External",
+    "profiles": [
+      {
+        "link": "https://github.com/shayan909",
+        "icon": "iconoir-github"
+      },
+      {
+        "link": "https://linkedin.com/in/shayanurrehman",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "form": {
+    "heading": "Let’s <span>chat.</span>",
+    "onCompletion": "Message has been dispatched!",
+    "button": {
+      "text": "Dispatch Message"
+    }
+  }
+}

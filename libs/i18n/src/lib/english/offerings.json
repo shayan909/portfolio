@@ -1,0 +1,122 @@
+{
+  "heading": "Offerings",
+  "navbar": {
+    "heading": null,
+    "entries": [
+      {
+        "icon": "iconoir-figma",
+        "text": "Prototyping",
+        "topics": [
+          "Wireframing",
+          "High-Fidelity Prototyping",
+          "Consulting & Strategy",
+          "User Testing & Feedback"
+        ]
+      },
+      {
+        "icon": "iconoir-input-output",
+        "text": "System Design",
+        "topics": [
+          "Scalable Architecture",
+          "Data Modeling",
+          "API Design & Integration",
+          "Cloud Infrastructure"
+        ]
+      },
+      {
+        "icon": "iconoir-design-pencil",
+        "text": "DevOps",
+        "topics": [
+          "CI/CD Pipelines",
+          "Containerization",
+          "Cloud Deployment",
+          "Monitoring & Maintenance"
+        ]
+      },
+      {
+        "icon": "iconoir-code",
+        "text": "Development",
+        "topics": [
+          "Frontend Development",
+          "Fullstack Development",
+          "API Development",
+          "Database Management"
+        ]
+      }
+    ]
+  },
+  "offerings": [
+    {
+      "title": "Prototyping",
+      "description": [
+        "- <b>Wireframing</b>: Creating mockups and layouts to visualize business needs and project goals.",
+        "- <b>High-Fidelity Prototyping</b>: Crafting detailed prototypes with real data for a complete user experience.",
+        "- <b>Consulting & Strategy</b>: Offering expert guidance on UI/UX best practices to ensure a user-friendly design.",
+        "- <b>User Testing & Feedback</b>: Gathering insights from user tests to optimize the prototype before development."
+      ]
+    },
+    {
+      "title": "System Design",
+      "description": [
+        "- <b>Scalable Architecture</b>: Designing robust, scalable systems tailored to handle large-scale applications.",
+        "- <b>Data Modeling</b>: Structuring databases and data flows to ensure efficiency and scalability.",
+        "- <b>API Design & Integration</b>: Developing APIs for seamless communication between frontend, backend, and third-party services.",
+        "- <b>Cloud Infrastructure</b>: Implementing cloud-based solutions for scalability, performance, and security."
+      ]
+    },
+    {
+      "title": "DevOps",
+      "description": [
+        "- <b>CI/CD Pipelines</b>: Automating deployment and testing to ensure continuous integration and delivery.",
+        "- <b>Containerization</b>: Using Docker to streamline deployments and manage microservices.",
+        "- <b>Cloud Deployment</b>: Deploying applications on cloud platforms such as AWS and Azure for high availability.",
+        "- <b>Monitoring & Maintenance</b>: Setting up monitoring tools such as Sentry and Grafana to ensure uptime and performance, with ongoing support."
+      ]
+    },
+    {
+      "title": "Development",
+      "description": [
+        "- <b>Frontend Development</b>: Building responsive, user-friendly interfaces using React, Next.js, and modern web technologies.",
+        "- <b>Fullstack Development</b>: Developing complete solutions from frontend to backend using MERN stack and TypeScript.",
+        "- <b>API Development</b>: Creating and integrating RESTful APIs to connect various systems and services.",
+        "- <b>Database Management</b>: Designing and managing databases with a focus on security, scalability, and performance."
+      ]
+    }
+  ],
+  "profiles": {
+    "heading": "Profiles",
+    "caption": "Stay Connected",
+    "media": null,
+    "button": {
+      "link": "/contact",
+      "icon": "/assets/icons/cta-icon.svg"
+    },
+    "profiles": [
+      {
+        "link": "https://github.com/shayan909",
+        "icon": "iconoir-github"
+      },
+      {
+        "link": "https://linkedin.com/in/shayanurrehman",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Let's <br /> <span>collaborate.</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": "/assets/icons/cta-icon.svg"
+    }
+  },
+  "credentials": {
+    "heading": "Qualifications",
+    "caption": "A little on Shayan",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/credentials",
+      "icon": "/assets/icons/cta-icon.svg"
+    }
+  }
+}

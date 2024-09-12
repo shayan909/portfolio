@@ -1,0 +1,108 @@
+{
+  "bio": {
+    "heading": "Shayan Ur Rehman Siddiqui",
+    "caption": "Senior Frontend Developer",
+    "description": "Frontend developer with a focus on building user-friendly, high-performance applications. Shayan has worked on projects for international clients, delivering tailored solutions for startups and enterprises.",
+    "descriptionExtended": "Currently leading frontend development at <span class='text-primary-color'>Loop Financial Services</span> while collaborating on various fintech projects.",
+    "location": "📍 Based in Karachi, Pakistan.",
+    "media": "/assets/headshot.jpeg",
+    "button": {
+      "link": "/bio",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "credentials": {
+    "heading": "Qualifications",
+    "caption": "A little on Shayan",
+    "media": "/assets/credentials.png",
+    "button": {
+      "link": "/credentials",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "cv": {
+    "heading": "Portfolio",
+    "caption": "CV",
+    "media": "/assets/portfolio.png",
+    "button": {
+      "link": "/portfolio",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "offerings": {
+    "heading": "Offerings",
+    "caption": "Explore offerings",
+    "link": "/offerings",
+    "icons": [
+      "iconoir-figma",
+      "iconoir-input-output",
+      "iconoir-design-pencil",
+      "iconoir-code"
+    ],
+    "button": {
+      "link": "/offerings",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "profiles": {
+    "heading": "Profiles",
+    "caption": "Stay Connected",
+    "media": null,
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    },
+    "profiles": [
+      {
+        "link": "https://github.com/shayan909",
+        "icon": "iconoir-github"
+      },
+      {
+        "link": "https://linkedin.com/in/shayanurrehman",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "facts": {
+    "quickFacts": [
+      {
+        "count": "3+",
+        "label": "YEARS <br /> EXPERIENCE"
+      },
+      {
+        "count": "15+",
+        "label": "PROJECTS <br /> COMPLETED"
+      },
+      {
+        "count": "10+",
+        "label": "PRODUCTION <br /> APPLICATIONS"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Let's <br /> build <span>something amazing.</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "bio": {
+    "media": "/assets/headshot.jpeg",
+    "details": {
+      "heading": "Bio",
+      "name": "Shayan Ur Rehman",
+      "description": "I am an ambitious Software Developer with 3+ years of experience specializing in developing mobile and web applications within the fintech, ecommerce, networking, and human resource domains. My adaptability to new technologies and strong problem-solving and interpersonal skills enables me to deliver high-quality, scalable software solutions. I am seeking a challenging opportunity to leverage my skills and knowledge to drive organizational success."
+    }
+  },
+  "experience": {
+    "heading": "Experience",
+    "experience": [
+      {
+        "date": "Sep 2023 - Present",
+        "title": "Frontend Developer (Fullstack)",
+        "company": "Loop Financial Services by Xfoil Pvt Ltd",
+        "description": "Led migration to Vite, upgraded Ant Design, and worked on payments, user management, and invoicing modules. Migrated CI/CD from GitLab to GitHub Actions."
+      },
+      {
+        "date": "Aug 2022 - Aug 2023",
+        "title": "React Developer",
+        "company": "Eike Consulting Pakistan",
+        "description": "Integrated APIs via Redux, built reusable hooks, and implemented pixel-perfect UIs with React Hook Form. Developed an image gallery and avatar animations."
+      },
+      {
+        "date": "Apr 2022 - Jul 2022",
+        "title": "MERN Stack Developer (Remote)",
+        "company": "Smash Cloud Media",
+        "description": "Built reusable components, integrated APIs with Redux, and implemented routing with React Suspense in a responsive web design."
+      },
+      {
+        "date": "May 2021 - Apr 2022",
+        "title": "Software Developer",
+        "company": "Logic-Unit",
+        "description": "Worked on an e-commerce platform, integrated APIs, added offline support, and developed POS and inventory management modules with Redux."
+      }
+    ]
+  },
+  "education": {
+    "heading": "Education",
+    "education": [
+      {
+        "date": "Degree",
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "Bachelor of Science in Computer Science",
+        "description": "Focus on AI and Machine Learning. Courses in Sofwarre Design, Software Engineering and Database Systems and Theory of Computation."
+      },
+      {
+        "date": "Degree",
+        "degree": "Intermediate",
+        "university": "Bahria College Karachi",
+        "description": "Pre-engineering"
+      },
+      {
+        "date": "Degree",
+        "degree": "GCE O Levels",
+        "university": "DHACSS Phase-VIII Campus (Formerly DAPS Phase-VIII)",
+        "description": "Pre-engineering"
+      }
+    ]
+  },
+  "profiles": {
+    "heading": "Profiles",
+    "caption": "Stay Connected",
+    "media": null,
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    },
+    "profiles": [
+      {
+        "link": "https://github.com/msanvarov",
+        "icon": "iconoir-github"
+      },
+      {
+        "link": "https://linkedin.com/in/sal-anvarov",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Let's <br /> <span>collaborate.</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "credentials": {
+    "heading": "Qualifications",
+    "caption": "A little on Shayan",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/credentials",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  }
+}
