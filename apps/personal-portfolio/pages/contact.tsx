@@ -46,7 +46,7 @@ const ContactPage = () => {
                     <span>{en.contact.contact.phone.heading}</span>
                     {en.contact.contact.phone.links.map((item, index) => (
                       <h4 key={index}>
-                        <a href={item.href}>{item.text}</a>
+                        <p>{item.text}</p>
                       </h4>
                     ))}
                   </div>
