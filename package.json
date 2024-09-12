@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nx serve personal-portfolio",
     "lint": "nx run-many --target=lint",
-    "build": "nx run-many --target=build",
+    "build": "nx build personal-portfolio",
     "test": "nx run-many --target=test"
   },
   "private": true,
