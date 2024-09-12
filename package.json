@@ -8,6 +8,7 @@
     "build": "nx build personal-portfolio",
     "test": "nx run-many --target=test"
   },
+  "nx": {},
   "private": true,
   "dependencies": {
     "@formspree/react": "^2.5.1",
