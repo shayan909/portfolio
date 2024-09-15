@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import { Alert, Form } from 'reactstrap';
 
 const ContactPage = () => {
-  const [state, handleSubmit] = useForm('xeqbqqwj');
+  const [state, handleSubmit] = useForm('xqazogwe');
   const [displayBanner, setDisplayBanner] = useState(false);
 
   useEffect(() => {
